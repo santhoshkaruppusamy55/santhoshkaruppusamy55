@@ -58,7 +58,7 @@ I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-ti
 
 <p align="center">
   <a href="https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url" target="_blank">
-    <img src="./aws-certified-ai-practitioner.png" alt="AWS AI Practitioner Badge" width="120" />
+    <img width="138" height="138" alt="Image" src="https://github.com/user-attachments/assets/164597ad-3879-4706-a41f-2358e52eb1bf" />
   </a>
 </p>
 
