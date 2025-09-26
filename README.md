@@ -1,8 +1,17 @@
-# Hi, I’m Santhosh K 👋
+# Hi, I'm Santhosh K 👋
+**Cloud & AI Enthusiast • Aspiring DevOps Engineer**
 
-**Cloud & AI Enthusiast • Aspiring DevOps Engineer**  
+<p align="center">
+  <a href="https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url" target="_blank">
+    <img width="138" height="138" alt="AWS AI Practitioner Badge" src="https://github.com/user-attachments/assets/164597ad-3879-4706-a41f-2358e52eb1bf" />
+  </a>
+  <br>
+  <strong>🏆 AWS Certified AI Practitioner — Foundational</strong><br>
+  <a href="https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url" target="_blank">Verify on Credly</a>
+</p>
+
 I work with cloud, automation, and software — currently focused on **AWS**, **Linux**, **Python**, and **Java**.  
-I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-time projects to apply these skills.
+I'm learning **DevOps (CI/CD, Docker, automation tools)** and building real-time projects to apply these skills.
 
 ---
 
@@ -17,7 +26,6 @@ I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-ti
 
 ## 🔭 About Me
 - 🌩️ Passionate about cloud-native solutions, automation, and scalable systems.  
-- 🏆 **AWS Certified AI Practitioner — Foundational**  
 - 🚀 Currently learning: **CI/CD**, **Docker**, and automation tools.  
 - 📫 Reach me: [santhoshkaruppusamy5@gmail.com](mailto:santhoshkaruppusamy5@gmail.com)  
 - 🔗 LinkedIn: [Santhosh K](https://www.linkedin.com/in/santhosh-k-101978338/)
@@ -54,23 +62,7 @@ I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-ti
 
 ---
 
-## 🏆 Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url" target="_blank">
-    <img width="138" height="138" alt="Image" src="https://github.com/user-attachments/assets/164597ad-3879-4706-a41f-2358e52eb1bf" />
-  </a>
-</p>
-
-**AWS AI Practitioner — Foundational**  
-[Verify on Credly](https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url)
-
----
-
-
 ## 🤝 Collaboration
-I’m open to collaboration on **cloud automation**, **DevOps projects**, and **AWS/AI hands-on tasks**.  
+I'm open to collaboration on **cloud automation**, **DevOps projects**, and **AWS/AI hands-on tasks**.  
 📩 Contact me: [santhoshkaruppusamy5@gmail.com](mailto:santhoshkaruppusamy5@gmail.com)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/santhosh-k-101978338/)
-
----
