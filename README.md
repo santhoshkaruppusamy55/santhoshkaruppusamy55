@@ -61,7 +61,7 @@ I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-ti
 </p>
 
 **AWS AI Practitioner — Foundational**  
-[Verify on Credly]([https://www.credly.com](https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url)) <!-- Replace this with your actual Credly share link -->
+[Verify on Credly](https://www.credly.com](https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url) <!-- Replace this with your actual Credly share link -->
 
 ---
 
