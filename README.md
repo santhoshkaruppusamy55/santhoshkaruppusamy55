@@ -61,31 +61,10 @@ I’m learning **DevOps (CI/CD, Docker, automation tools)** and building real-ti
 </p>
 
 **AWS AI Practitioner — Foundational**  
-[Verify on Credly](https://www.credly.com) <!-- Replace this with your actual Credly share link -->
+[Verify on Credly]([https://www.credly.com](https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url)) <!-- Replace this with your actual Credly share link -->
 
 ---
 
-## 📂 Featured Projects
-*(Pin these repos on your GitHub profile for visibility)*
-
-- **Project A** — Short description. (Tech: AWS, Python)  
-- **Project B** — Short description. (Tech: Java, Spring Boot)  
-- **Project C** — Short description. (Tech: Docker, CI/CD)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/santhoshkaruppusamy55">
-    <img src="https://github-readme-stats.vercel.app/api?username=santhoshkaruppusamy55&show_icons=true&theme=radical" alt="Santhosh's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkaruppusamy55&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ## 🤝 Collaboration
 I’m open to collaboration on **cloud automation**, **DevOps projects**, and **AWS/AI hands-on tasks**.  
