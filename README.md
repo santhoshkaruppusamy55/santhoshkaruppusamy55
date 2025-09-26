@@ -1,5 +1,9 @@
-# Hi, I'm Santhosh K 👋
-**Cloud & AI Enthusiast • Aspiring DevOps Engineer**
+<p align="left">
+  <!-- Typing intro -->
+  <a href="https://github.com/santhoshkaruppusamy55">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Santhosh+K;Cloud+%26+AI+Enthusiast;AWS+%7C+Linux+%7C+Python+%7C+Java" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/f37dd057-7c79-408a-a6de-69e12c66dd0b/public_url" target="_blank">
@@ -12,15 +16,6 @@
 
 I work with cloud, automation, and software — currently focused on **AWS**, **Linux**, **Python**, and **Java**.  
 I'm learning **DevOps (CI/CD, Docker, automation tools)** and building real-time projects to apply these skills.
-
----
-
-<p align="center">
-  <!-- Typing intro -->
-  <a href="https://github.com/santhoshkaruppusamy55">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Santhosh+K;Cloud+%26+AI+Enthusiast;AWS+%7C+Linux+%7C+Python+%7C+Java" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
